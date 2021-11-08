@@ -21,3 +21,7 @@ Options:
   -t, --tope     Indica el tope hasta el cual vamos a crear la tabla
                                                           [number] [default: 10]
 ```
+
+
+
+Esta aplicación se realiza siguiendo las indicaciones de la Sección 4 del curso Node: De cero a experto ( Edición 2021 ) ([Curso](https://www.udemy.com/course/node-de-cero-a-experto))
